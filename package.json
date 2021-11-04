@@ -1,0 +1,38 @@
+{
+  "name": "@idris/esling-confiv",
+  "version": "1.0.0",
+  "description": "eslint setup config",
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idris taiwo",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.4.1"
+  },
+  "keywords": [
+    "config",
+    "plugin",
+    "eslint",
+    "react",
+    "nextjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idrisreact"
+  }
+}
