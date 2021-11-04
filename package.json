@@ -1,5 +1,5 @@
 {
-  "name": "@idris/esling-confiv",
+  "name": "idris/esling-confiv",
   "version": "1.0.0",
   "description": "eslint setup config",
   "main": "index.js",
